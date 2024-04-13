@@ -1,0 +1,77 @@
+/*!
+ * (c) TenoxUI CSS Framework v0.5
+ */
+:root {
+  --full: stretch;
+  --col: column;
+  --fxs: flex-start;
+  --fxe: flex-end;
+  --flex-start: var(--fxs);
+  --flex-end: var(--fxe);
+  --sb: space-between;
+  --sa: space-around;
+  --se: space-evenly;
+  --row-rev: row-reverse;
+  --col-rev: column-reverse;
+  --wrap-rev: wrap-reverse;
+  --repeat-x: repeat-x;
+  --repeat-y: repeat-y;
+  --x-repeat: repeat-x;
+  --y-repeat: repeat-y;
+  --no-repeat: no-repeat;
+  --ib: inline-block;
+  --i-fx: inline-flex;
+  --tx__video: 16/9;
+  --tx__poster: 3/4;
+  --tx__avoid-page: avoid-page;
+  --tx__border-box: border-box;
+  --tx__content-box: content-box;
+  --tx__padding-box: padding-box;
+  --tx__avoid-column: avoid-column;
+  --tx__inline-start: inline-start;
+  --tx__inline-end: inline-end;
+  --tx__inline-block: inline-block;
+  --tx__inline-flex: inline-flex;
+  --tx__inline-grid: inline-grid;
+  --tx__inline-table: inline-table;
+  --tx__list-item: list-item;
+  --tx__scale-down: scale-down;
+  --tx__left-bottom: left bottom;
+  --tx__left-top: left top;
+  --tx__right-bottom: right bottom;
+  --tx__right-top: right top;
+  --tx__min-content: min-content;
+  --tx__fit-content: fit-content;
+  --tx__max-content: max-content;
+  --tx__line-through: line-through;
+  --tx__text-top: text-top;
+  --tx__text-bottom: text-bottom;
+  --tx__break-all: break-all;
+  --tx__break-word: break-word;
+  --tx__keep-all: keep-all;
+  --tx__row-rev: row-reverse;
+  --tx__col-rev: column-reverse;
+  --tx__wrap-rev: wrap-reverse;
+  --tx__fx-start: flex-start;
+  --tx__fx-end: flex-end;
+  --tx__s-between: var(--sb);
+  --tx__s-around: space-around;
+  --tx__s-evenly: space-evenly;
+  --tx__right-top: right top;
+  --tx__right-bottom: right bottom;
+  --tx__left-top: left top;
+  --tx__left-bottom: left bottom;
+  --tx__line-through: line-through;
+  --tx__pre-line: pre-line;
+  --tx__pre-wrap: pre-wrap;
+  --tx__break-spaces: break-spaces;
+  --tx__border-box: border-box;
+  --tx__content-box: content-box;
+  --tx__padding-box: padding-box;
+  --tx__font-sans: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --tx__font-serif: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  --tx__font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+    "Liberation Mono", "Courier New", monospace;
+  --tx__default: "Aku Sayang Zeta :)";
+}
